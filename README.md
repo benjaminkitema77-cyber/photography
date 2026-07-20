@@ -16,7 +16,7 @@ My Moments is a photography portfolio website created to share my favourite phot
 
 ## Live Website
 
-GitHub Pages link: Add your live website link here after deployment.
+GitHub Pages link: https://github.com/benjaminkitema77-cyber/photography.
 
 ## Technologies Used
 
@@ -26,6 +26,6 @@ GitHub Pages link: Add your live website link here after deployment.
 
 ## Copyright and License
 
-Copyright © 2026 BENJI.
+Copyright  2026 BENJI.
 
 This project is licensed under the MIT License and is intended for educational purposes.
