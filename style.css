@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-color: black;
-  color: whitesmoke;
+  background-color: rgb(44, 44, 2);
+  color: rgb(197, 190, 190);
   font-family: Arial, sans-serif;
 }
 
@@ -13,7 +13,7 @@ h2,
 
 .hero {
   padding: 50px;
-  background-color: dimgray;
+  background-color: rgb(44, 44, 2);
 }
 
 .logo {
