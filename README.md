@@ -6,7 +6,7 @@ Benjamin
 
 ## Description
 
-  Moments is a photography  portfolio website created to share my favourite photographs, photography styles, and personal photography journey. The website includes an introduction, biography,  photo gallery, contact form, and a link to the original website design .
+ My Moments is a photography  portfolio website created to share my favourite photographs, photography styles, and personal photography journey. The website includes an introduction, biography,  photo gallery, contact form, and a link to the original website design .
 
 ## Setup Instructions
 
