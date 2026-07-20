@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: rgb(44, 44, 2);
+  background-color: rgb(7, 37, 2);
   color: rgb(197, 190, 190);
   font-family: Arial, sans-serif;
 }
@@ -13,11 +13,11 @@ h2,
 
 .hero {
   padding: 50px;
-  background-color: rgb(44, 44, 2);
+  background-color: rgb(1, 1, 0);
 }
 
 .logo {
-  color: goldenrod;
+  color: rgb(10, 8, 3);
   font-size: 24px;
   font-weight: bold;
 }
@@ -126,6 +126,59 @@ figcaption {
   vertical-align: top;
   border: 1px solid goldenrod;
 }
+
+
+.form {
+    background-color: #000000; 
+    color: #f7ede2;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    display: block;
+    overflow: hidden;
+}
+
+.form h2 {
+    font-size: 22px;
+    color: #f7ede2;
+    margin-bottom: 15px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 12px;
+    background-color: #ffffff; 
+    border: 1px solid #fffcfd;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.submit-button {
+    background-color: #ffffff;
+    color: #ecebeb;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.submit-button:hover {
+    background-color: #e3b5a4; 
+
 
 /* Footer */
 footer {
