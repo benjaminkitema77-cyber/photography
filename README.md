@@ -16,7 +16,7 @@ Benjamin
 
 ## Live Website
 
-GitHub Pages link: https://github.com/benjaminkitema77-cyber/photography.
+GitHub Pages link:  https://benjaminkitema77-cyber.github.io/photography/
 
 ## Technologies Used
 
